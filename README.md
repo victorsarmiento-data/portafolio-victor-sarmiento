@@ -15,5 +15,5 @@ Soy un estudiante con interés en transformar datos en información útil para l
 - Python (básico)
 
 ## Contacto
-- LinkedIn
-- Correo electrónico
+- LinkedIn: https://www.linkedin.com/in/victor-sarmiento-sarmiento-912014190
+- Correo electrónico: victor.sarmiento99@outlook.cl
