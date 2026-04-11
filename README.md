@@ -6,30 +6,42 @@ Estudiante de Ingeniería en Informática enfocado en análisis de datos y visua
 
 ## Sobre mí
 
-Soy Víctor Sarmiento, estudiante de Ingeniería en Informática con interés en el análisis de datos y la visualización de información para resolver problemas reales.
+Soy Víctor Sarmiento, estudiante de Ingeniería en Informática con interés en el análisis de datos y la visualización de información aplicada a la resolución de problemas reales.
 
-Soy de Chile y actualmente me encuentro en proceso de formación académica, desarrollando habilidades en análisis de datos, interpretación de información y uso de herramientas como Power BI.
+Actualmente me encuentro en proceso de formación, desarrollando habilidades en análisis de datos, interpretación de información y herramientas como Power BI. Mi enfoque está en transformar datos en insights accionables que apoyen la toma de decisiones.
 
-Mi formación se basa en el desarrollo de soluciones tecnológicas, programación y análisis de datos, lo que me permite comprender problemáticas y transformarlas en insights útiles.
+He trabajado en proyectos académicos donde he aplicado análisis, visualización y narrativa de datos, destacando el caso **FastDelivery**, en el cual identifiqué problemáticas de negocio y propuse soluciones basadas en evidencia.
 
-He trabajado en proyectos académicos como el caso **FastDelivery**, donde desarrollé una narrativa de datos completa, incluyendo análisis, visualizaciones y propuesta de solución basada en evidencia.
-
-Aunque me encuentro en etapa inicial profesional, destaco por mi compromiso, capacidad de aprendizaje y enfoque analítico, lo que me permite adaptarme rápidamente y aportar valor en proyectos relacionados con datos y tecnología.
+Me caracterizo por mi compromiso, capacidad de aprendizaje y enfoque analítico, lo que me permite adaptarme rápidamente y aportar valor en entornos tecnológicos y de datos.
 
 ---
 
-## Proyectos
+## Proyecto destacado
 
 ### FastDelivery – Análisis de datos y narrativa
-- Identificación de problemas en la retención de clientes
-- Análisis de causas basado en datos
-- Visualización de información (gráficos y storytelling)
-- Propuesta de solución basada en evidencia
+
+**Problema:**  
+Una empresa de delivery presenta alta pérdida de clientes y baja satisfacción.
+
+**Hallazgos clave:**  
+- 40% de los clientes nuevos no vuelve a comprar  
+- Tiempo de entrega superior a la competencia  
+- Alta tasa de quejas por comida fría  
+
+**Solución propuesta:**  
+Implementación de un sistema de conservación térmica para mejorar la experiencia del cliente y recuperar usuarios.
+
+**Valor generado:**  
+Análisis basado en datos que permite tomar decisiones estratégicas para reducir pérdidas y mejorar la retención.
+
+---
+
+## Otros proyectos
 
 ### Dashboard en Power BI
-- Creación de visualizaciones interactivas
-- Análisis de indicadores clave (KPIs)
-- Presentación clara para la toma de decisiones
+- Creación de visualizaciones interactivas  
+- Análisis de indicadores clave (KPIs)  
+- Presentación clara para la toma de decisiones  
 
 ---
 
@@ -37,16 +49,16 @@ Aunque me encuentro en etapa inicial profesional, destaco por mi compromiso, cap
 
 - Power BI  
 - Excel  
-- Python (básico)  
+- Python (nivel básico)  
 - Git y GitHub  
 
 ---
 
 ## Buenas prácticas aplicadas
 
-- Estructura clara y ordenada del contenido  
-- Explicación de proyectos con contexto y resultados  
-- Uso de herramientas de control de versiones (GitHub)  
+- Estructura clara y organizada del contenido  
+- Explicación de proyectos con contexto, análisis y resultados  
+- Uso de control de versiones mediante GitHub  
 - Enfoque en la resolución de problemas reales  
 - Mejora continua y actualización del portafolio  
 
@@ -54,11 +66,11 @@ Aunque me encuentro en etapa inicial profesional, destaco por mi compromiso, cap
 
 ## Contacto
 
-- LinkedIn:https://www.linkedin.com/in/victor-sarmiento-sarmiento-912014190
+- LinkedIn: https://www.linkedin.com/in/victor-sarmiento-sarmiento-912014190  
 - Correo: victor.sarmiento99@outlook.cl  
 
 ---
 
 ## Objetivo profesional
 
-Desarrollarme como analista de datos, aplicando herramientas tecnológicas y pensamiento analítico para generar valor en organizaciones a través de la información.
+Desarrollarme como analista de datos, aplicando herramientas tecnológicas y pensamiento analítico para transformar datos en información estratégica que genere valor en las organizaciones.
